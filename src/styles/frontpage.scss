@@ -1,0 +1,64 @@
+.main-container {
+  padding: 5rem 12rem 5rem 12rem;
+}
+
+.main-container-highlight {
+  background: antiquewhite;
+  padding: 4rem 5rem 5rem 5rem;
+}
+
+.header-main-container {
+  padding: 2rem;
+}
+
+.header-content {
+}
+
+.header-banner {
+}
+
+.menu-items {
+
+  ul {
+    margin: 0;
+  }
+
+  li {
+    display:inline-block;
+    *display:inline; /*IE7*/
+    margin-right:10px;
+  }
+}
+
+.header-text {
+  margin-left: 7rem;
+  margin-top: 3rem;
+}
+
+.main-focus-container {
+  padding: 5rem 12rem 5rem 12rem;
+}
+
+.quote-container {
+  padding: 5rem;
+  background: $background-quote;
+}
+
+.about-details-container {
+  padding: 5rem;
+  background: lightgrey;
+}
+
+.more-articles {
+  padding: 2rem;
+  background: mintcream;
+}
+
+.background-tag {
+  background: $background-tag;
+}
+
+.footer-container {
+  padding: 2rem;
+  background: whitesmoke;
+}

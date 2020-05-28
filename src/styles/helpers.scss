@@ -1,0 +1,38 @@
+@import "variables";
+
+@each $size-name, $size in $dimensions {
+  .hidden-#{$size-name} {
+    @media (max-width: $size) {
+      visibility: hidden;
+      display: none;
+    }
+  }
+}
+
+@each $font-size-name, $font-size in $font-sizes {
+  .font-size-#{$font-size-name} {
+    font-size: $font-size;
+  }
+}
+
+.no-padding-max-sm {
+  @media (max-width: $sm) {
+    padding: 0 !important;
+  }
+}
+
+.small-padding-max-sm {
+  @media (max-width: $sm) {
+    padding: 2rem !important;
+  }
+}
+
+.no-left-margin-max-sm {
+  @media (max-width: $sm) {
+    margin-left: 0 !important;
+  }
+}
+
+.background-title {
+  background: $background-title;
+}

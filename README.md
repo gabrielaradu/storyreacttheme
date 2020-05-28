@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+and with me (Gabi) writing Sass and Html to transform a design into code.
+
+## Live demo
+
+Check the live demo here 👉️ [here]()
 
 ## Available Scripts
 
@@ -66,3 +71,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Extra Credits
+
+- [Dribbble Inspiration](https://dribbble.com/shots/4857297-Blog-Article-Explore-II/attachments/1090481)
+Thank you.
+
+## Terms and License
+
+- Released under the [MIT](https://mit-license.org/).
+- Created and maintained with ❤ by [Gabriela](http://www.gabrielaradu.me/).
+- Use it for personal and commercial projects, but please don't republish, redistribute, or resell the template.
+- Attribution is not required.
+
+## About Us
+
+We are a couple of software developers that like to share side projects publicly and share knowledge.
