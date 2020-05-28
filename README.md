@@ -3,7 +3,7 @@ and with me (Gabi) writing Sass and Html to transform a design into code.
 
 ## Live demo
 
-Check the live demo here 👉️ [here]()
+Check the live demo here 👉️ [https://story-react-theme.netlify.app/](https://story-react-theme.netlify.app/)
 
 ## Available Scripts
 
@@ -75,6 +75,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Extra Credits
 
 - [Dribbble Inspiration](https://dribbble.com/shots/4857297-Blog-Article-Explore-II/attachments/1090481)
+- [Undraw.co](https://undraw.co/)
+
 Thank you.
 
 ## Terms and License
