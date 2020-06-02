@@ -18,11 +18,6 @@
 .main-container {
   @media (min-width: $md) {
     padding: $main-containers-padding;
-
-    &-highlight {
-      background: antiquewhite;
-      padding: 4rem 5rem 5rem 5rem;
-    }
   }
 }
 
