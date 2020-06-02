@@ -15,19 +15,31 @@
   }
 }
 
-.no-padding-max-sm {
-  @media (max-width: $sm) {
-    padding: 0 !important;
+.main-container {
+  @media (min-width: $md) {
+    padding: $main-containers-padding;
+
+    &-highlight {
+      background: antiquewhite;
+      padding: 4rem 5rem 5rem 5rem;
+    }
   }
 }
 
-.small-padding-max-sm {
+.main-focus-container {
+  @media (min-width: $md) {
+    padding: $main-containers-padding;
+  }
   @media (max-width: $sm) {
-    padding: 2rem !important;
+    padding: $default-padding;
   }
 }
 
-.no-left-margin-max-sm {
+.header-text {
+  @media (min-width: $md) {
+    margin-left: 7rem;
+    margin-top: 3rem;
+  }
   @media (max-width: $sm) {
     margin-left: 0 !important;
   }

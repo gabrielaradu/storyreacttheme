@@ -12,7 +12,7 @@ class HeaderMenu extends React.Component {
                         </div>
                         <div className="col-md-9 col-sm-12 text-right font-size-sm">
                             <nav className="menu-items w-100">
-                                <ul>
+                                <ul className="m-0">
                                     <li>Posts</li>
                                     <li>About</li>
                                     <li>Write</li>
@@ -20,7 +20,7 @@ class HeaderMenu extends React.Component {
                             </nav>
                         </div>
                     </div>
-                    <div className="row header-text no-left-margin-max-sm no-padding-max-sm">
+                    <div className="row header-text">
                         <h1 className="d-inline flex-wrap">To keep you on the road to safety, here are a few basic
                             tricks</h1>
                         <p className="col-6 pt-2">

@@ -7,7 +7,7 @@ import LatestArticle from "./LatestArticle";
 class Main extends Component {
     render() {
         return (
-            <div className="main-focus-container small-padding-max-sm">
+            <div className="main-focus-container">
                 <div className="row">
                     <div className="col-md-3 col-sm-12 p-3 hidden-sm">
                         <ShareSocial/>

@@ -6,7 +6,7 @@ const Page = (InnerComponent) => class extends Component {
 
     render() {
         return (
-            <div className="main-container no-padding-max-sm overflow-auto h-100">
+            <div className="main-container overflow-auto h-100">
                 <div className="">
                     <HeaderMenu/>
                     <InnerComponent {...this.props}/>
